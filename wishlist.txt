@@ -1,0 +1,2 @@
+// Dreaded Venture (sniper) with arrowhead brake, tactical mag, triple tap, rapid hit
+dimwishlist:item=3100452337&perks=839105230,106909392,3400784728,247725512
