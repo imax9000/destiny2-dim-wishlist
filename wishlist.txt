@@ -1,2 +1,5 @@
-// Dreaded Venture (sniper) with arrowhead brake, tactical mag, triple tap, rapid hit
+
+title:My personal wishlist
+
+//notes:Super stable kinetic sniper rifle
 dimwishlist:item=3100452337&perks=839105230,106909392,3400784728,247725512

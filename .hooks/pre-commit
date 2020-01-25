@@ -1,0 +1,4 @@
+#!/bin/sh
+
+make
+git add wishlist.txt
