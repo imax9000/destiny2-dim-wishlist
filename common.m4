@@ -1,7 +1,7 @@
 divert(-1)
 
-include(`perks.m4')
-include(`weapons.m4')
+include(`data/perks.m4')
+include(`data/weapons.m4')
 
 define(`single_entry', ``dimwishlist:item='$1`&perks='shift($@)')
 

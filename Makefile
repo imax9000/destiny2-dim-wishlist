@@ -2,17 +2,19 @@
 
 root := $(dir $(lastword $(MAKEFILE_LIST)))
 
-all: wishlist.txt perks.m4
+datafiles := data/perks.m4 data/weapons.m4
+
+all: wishlist.txt
 
 install-hooks:
 	for hook in $(root).hooks/*; do \
 		ln -sf ../../$${hook} $(root).git/hooks/; \
 	done
 
-wishlist.txt: wishlist.m4 perks.m4 weapons.m4 common.m4
+wishlist.txt: wishlist.m4 common.m4 $(datafiles)
 	m4 $< > $@
 
-perks.m4 weapons.m4 manifest.json names.json:
+$(datafiles) manifest.json names.json:
 	$(MAKE) -f Makefile.gen $@
 
 clean:

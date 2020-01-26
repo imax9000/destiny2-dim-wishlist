@@ -7,11 +7,11 @@ manifest.json:
 	url="https://www.bungie.net$${path}"; \
 	curl --silent --header 'X-API-Key: $(API_KEY)' --header 'Content-Type: application/json' "$${url}" | jq > $@
 
-names.json: manifest.json extract_names.jq
-	jq -f extract_names.jq $< > $@
+names.json: manifest.json src/extract_names.jq
+	jq -f src/extract_names.jq $< > $@
 
-perks.m4: manifest.json gen_perks.jq
-	jq --raw-output -f gen_perks.jq $< | sort > $@
+data/perks.m4: manifest.json src/gen_perks.jq
+	jq --raw-output -f src/gen_perks.jq $< | sort > $@
 
-weapons.m4: manifest.json gen_weapons.jq
-	jq --raw-output -f gen_weapons.jq $< | sort > $@
+data/weapons.m4: manifest.json src/gen_weapons.jq
+	jq --raw-output -f src/gen_weapons.jq $< | sort > $@
