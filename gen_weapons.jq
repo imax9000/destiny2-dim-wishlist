@@ -14,4 +14,4 @@ def escape_name: gsub("[^0-9a-zA-Z_]"; "_");
 	else
 		false
 	end)
-| ("d(`" + (.displayProperties.name | escape_name) +"', `wishlist_entry(`" + (.hash | tostring) + "', $@)')")
+| ("define(`" + (.displayProperties.name | escape_name) +"', `wishlist_entry(0, `" + (.hash | tostring) + "', $@)')")
