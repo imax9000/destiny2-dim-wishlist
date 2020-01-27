@@ -1,4 +1,3 @@
-
 title:My personal wishlist
 
 //notes:Super stable kinetic sniper rifle

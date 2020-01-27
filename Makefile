@@ -12,7 +12,7 @@ install-hooks:
 	done
 
 wishlist.txt: wishlist.m4 common.m4 $(datafiles)
-	m4 $< > $@
+	m4 common.m4 $< > $@
 
 $(datafiles) manifest.json names.json:
 	$(MAKE) -f Makefile.gen $@

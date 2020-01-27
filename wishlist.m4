@@ -1,5 +1,3 @@
-include(`common.m4')dnl
-
 title:My personal wishlist
 
 //notes:Super stable kinetic sniper rifle
