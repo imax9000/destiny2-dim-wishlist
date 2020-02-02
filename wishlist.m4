@@ -26,4 +26,7 @@ Sword(Jagged_Edge, Relentless_Strikes, Whirlwind_Blade)
 //notes:Lots of ammo for warlock skating
 Sword(Enduring_Blade)
 
+//notes:Ultimate Zenobia-D: max blast radius, cluster bombs, field prep for extra rocket and faster reload.
+Zenobia_D(1478423395, Black_Powder, Cluster_Bomb, Field_Prep)
+
 include(`sources/voltron.txt')
