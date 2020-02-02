@@ -17,4 +17,13 @@ Breachlight(
 	Vorpal_Weapon,
 	any_of(Demolitionist, Outlaw, Hip_Fire_Grip))
 
+//notes:Minor/major add clear
+Sword(Jagged_Edge, Tireless_Blade, Whirlwind_Blade)
+
+//notes:Boss damage
+Sword(Jagged_Edge, Relentless_Strikes, Whirlwind_Blade)
+
+//notes:Lots of ammo for warlock skating
+Sword(Enduring_Blade)
+
 include(`sources/voltron.txt')
