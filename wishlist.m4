@@ -16,3 +16,5 @@ Last_Hope(
 Breachlight(
 	Vorpal_Weapon,
 	any_of(Demolitionist, Outlaw, Hip_Fire_Grip))
+
+include(`sources/voltron.txt')

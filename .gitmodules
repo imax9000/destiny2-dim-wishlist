@@ -1,3 +1,6 @@
 [submodule "gen"]
 	path = gen
 	url = git@github.com:gelraen/destiny2-dim-wishlist-generator.git
+[submodule "sources"]
+	path = sources
+	url = https://github.com/48klocs/dim-wish-list-sources.git
