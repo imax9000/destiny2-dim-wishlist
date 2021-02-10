@@ -29,4 +29,17 @@ Sword(Enduring_Blade)
 //notes:Ultimate Zenobia-D: max blast radius, cluster bombs, field prep for extra rocket and faster reload.
 Zenobia_D(1478423395, Black_Powder, Cluster_Bomb, Field_Prep)
 
+//notes:Zenobia-D substitute
+Royal_Entry(Volatile_Launch,
+    any_of(Alloy_Casing, Black_Powder, High_Velocity_Rounds),
+    Field_Prep,
+    any_of(Cluster_Bomb, Chain_Reaction))
+
+//notes:No Turning Back substitute
+Biting_Winds(
+    any_of(High_Tension_String, Natural_String, Tactile_String, Polymer_String),
+    any_of(Straight_Fletching, Fiberglass_Arrow_Shaft),
+    any_of(Quickdraw, Rapid_Hit),
+    any_of(Explosive_Head, Sympathetic_Arsenal))
+
 include(`sources/voltron.txt')
