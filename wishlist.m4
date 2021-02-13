@@ -33,7 +33,7 @@ Zenobia_D(1478423395, Black_Powder, Cluster_Bomb, Field_Prep)
 Royal_Entry(Volatile_Launch,
     any_of(Alloy_Casing, Black_Powder, High_Velocity_Rounds),
     Field_Prep,
-    any_of(Cluster_Bomb, Chain_Reaction))
+    any_of(Cluster_Bomb, Chain_Reaction, Lasting_Impression))
 
 //notes:No Turning Back substitute
 Biting_Winds(
