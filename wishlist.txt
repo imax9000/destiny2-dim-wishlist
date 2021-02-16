@@ -74,6 +74,9 @@ dimwishlist:item=1621657423&perks=852209214,3429800428,706527188,3350417888
 dimwishlist:item=1621657423&perks=852209214,3429800428,247725512,3365897133
 dimwishlist:item=1621657423&perks=852209214,3429800428,247725512,3350417888
 
+//notes:For occasional short-range damage bursts in kinetic slot 
+dimwishlist:item=2957367743&perks=2117683199,3300816228
+
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
 

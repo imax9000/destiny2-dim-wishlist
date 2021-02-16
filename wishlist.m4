@@ -42,4 +42,7 @@ Biting_Winds(
     any_of(Quickdraw, Rapid_Hit),
     any_of(Explosive_Head, Sympathetic_Arsenal))
 
+//notes:For occasional short-range damage bursts in kinetic slot 
+Toil_and_Trouble(2117683199, Auto_Loading_Holster)
+
 include(`sources/voltron.txt')
