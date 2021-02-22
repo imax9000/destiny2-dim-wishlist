@@ -44,5 +44,3 @@ Biting_Winds(
 
 //notes:For occasional short-range damage bursts in kinetic slot 
 Toil_and_Trouble(2117683199, Auto_Loading_Holster)
-
-include(`sources/voltron.txt')
