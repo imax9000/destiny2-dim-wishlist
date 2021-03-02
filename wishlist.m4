@@ -44,3 +44,8 @@ Biting_Winds(
 
 //notes:For occasional short-range damage bursts in kinetic slot 
 Toil_and_Trouble(2117683199, Auto_Loading_Holster)
+
+Extraordinary_Rendition(
+    any_of(Appended_Mag, Tactical_Mag, Alloy_Magazine),
+    Zen_Moment,
+    Frenzy, Thresh)
