@@ -49,3 +49,12 @@ Extraordinary_Rendition(
     any_of(Appended_Mag, Tactical_Mag, Alloy_Magazine),
     Zen_Moment,
     Frenzy, Thresh)
+
+//notes:KABOOM!!!
+Hero_of_Ages(Tireless_Blade, Chain_Reaction)
+
+//notes:Boss/major damage
+The_Other_Half(Jagged_Edge, Relentless_Strikes, any_of(Whirlwind_Blade, Frenzy))
+
+//notes:Redbar clear
+Half_Truths(any_of(Tireless_Blade, Thresh), Assassin_s_Blade)
