@@ -23,9 +23,6 @@ dimwishlist:item=54&perks=3666208348,2590710093,3913600130
 //notes:Boss damage
 dimwishlist:item=54&perks=3666208348,1749209109,3913600130
 
-//notes:Lots of ammo for warlock skating
-dimwishlist:item=54&perks=1261178282
-
 //notes:Ultimate Zenobia-D: max blast radius, cluster bombs, field prep for extra rocket and faster reload.
 dimwishlist:item=3776129137&perks=1478423395,1996142143,1275731761,2869569095
 
