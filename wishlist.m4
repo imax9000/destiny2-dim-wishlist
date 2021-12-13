@@ -55,3 +55,6 @@ The_Other_Half(Jagged_Edge, Relentless_Strikes, any_of(Whirlwind_Blade, Frenzy))
 
 //notes:Redbar clear
 Half_Truths(any_of(Tireless_Blade, Thresh), Assassin_s_Blade)
+
+//notes:For farming "Short Circuiter" triumph
+Chroma_Rush(Subsistence)
