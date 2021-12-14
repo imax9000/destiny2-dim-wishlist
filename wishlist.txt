@@ -91,3 +91,6 @@ dimwishlist:item=3257091166&perks=2726471870,354401740
 
 //notes:For farming "Short Circuiter" triumph
 dimwishlist:item=1119734784&perks=1820235745
+
+//notes:Skating sword
+dimwishlist:item=54&perks=2077819806

@@ -58,3 +58,6 @@ Half_Truths(any_of(Tireless_Blade, Thresh), Assassin_s_Blade)
 
 //notes:For farming "Short Circuiter" triumph
 Chroma_Rush(Subsistence)
+
+//notes:Skating sword
+Sword(Eager_Edge)
