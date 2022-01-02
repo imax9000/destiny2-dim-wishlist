@@ -61,3 +61,9 @@ Chroma_Rush(Subsistence)
 
 //notes:Skating sword
 Sword(Eager_Edge)
+
+BxR_55_Battler(
+    Arrowhead_Brake,
+    any_of(Light_Mag, Flared_Magwell, 3142289711),
+    Killing_Wind,
+    any_of(Adrenaline_Junkie, Rangefinder))
