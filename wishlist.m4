@@ -70,3 +70,13 @@ BxR_55_Battler(
     any_of(Light_Mag, Flared_Magwell, 3142289711),
     Killing_Wind,
     any_of(Adrenaline_Junkie, Rangefinder))
+
+//notes:Optimized stability
+Chrysura_Melo(
+    any_of(Polygonal_Rifling, 3661387068),
+    Steady_Rounds)
+Chrysura_Melo(
+    any_of(Polygonal_Rifling, 3661387068),
+    Steady_Rounds,
+    Fourth_Time_s_the_Charm,
+    any_of(Wellspring, Frenzy))
