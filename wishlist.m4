@@ -80,3 +80,5 @@ Chrysura_Melo(
     Steady_Rounds,
     Fourth_Time_s_the_Charm,
     any_of(Wellspring, Frenzy))
+
+Tranquility(Auto_Loading_Holster, Snapshot_Sights)
