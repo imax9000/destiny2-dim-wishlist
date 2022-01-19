@@ -82,3 +82,8 @@ Chrysura_Melo(
     any_of(Wellspring, Frenzy))
 
 Tranquility(Auto_Loading_Holster, Snapshot_Sights)
+
+//notes:Quick blinding grenades in the kinetic slot
+Pardon_Our_Dust(Blinding_Grenades, Auto_Loading_Holster)
+
+Threaded_Needle(Vorpal_Weapon)
