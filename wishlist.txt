@@ -119,4 +119,5 @@ dimwishlist:item=1645386487&perks=3300816228,957782887
 //notes:Quick blinding grenades in the kinetic slot
 dimwishlist:item=3849810018&perks=3032599245,3300816228
 
-dimwishlist:item=3075224551&perks=1546637391
+//notes:Frenzy > Vorpal on heavy now (+15% vs. +10%)
+dimwishlist:item=3075224551&perks=4104185692
