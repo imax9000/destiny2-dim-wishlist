@@ -88,3 +88,9 @@ Pardon_Our_Dust(Blinding_Grenades, Auto_Loading_Holster)
 
 //notes:Frenzy > Vorpal on heavy now (+15% vs. +10%)
 Threaded_Needle(Frenzy)
+
+The_Last_Breath(
+    Arrowhead_Brake,
+    any_of(Ricochet_Rounds, Flared_Magwell),
+    Subsistence,
+    any_of(Adrenaline_Junkie, Frenzy))
