@@ -32,12 +32,12 @@ Royal_Entry(Volatile_Launch,
     Field_Prep,
     any_of(Cluster_Bomb, Chain_Reaction, Lasting_Impression))
 
-//notes:No Turning Back substitute
+//notes:No Turning Back substitute. Requires Accuracy MW
 Biting_Winds(
-    any_of(High_Tension_String, Natural_String, Tactile_String, Polymer_String),
-    any_of(Straight_Fletching, Fiberglass_Arrow_Shaft),
-    any_of(Quickdraw, Rapid_Hit),
-    any_of(Explosive_Head, Sympathetic_Arsenal))
+    High_Tension_String,
+    Straight_Fletching,
+    any_of(Quickdraw, Rapid_Hit, Surplus),
+    any_of(Explosive_Head, Sympathetic_Arsenal, Swashbuckler))
 
 //notes:For occasional short-range damage bursts in kinetic slot 
 Toil_and_Trouble(2117683199, Auto_Loading_Holster)
