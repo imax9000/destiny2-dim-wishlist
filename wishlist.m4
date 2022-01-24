@@ -35,7 +35,7 @@ Royal_Entry(Volatile_Launch,
 //notes:No Turning Back substitute. Requires Accuracy MW
 Biting_Winds(
     High_Tension_String,
-    Straight_Fletching,
+    any_of(Straight_Fletching, Fiberglass_Arrow_Shaft),
     any_of(Quickdraw, Rapid_Hit, Surplus),
     any_of(Explosive_Head, Sympathetic_Arsenal, Swashbuckler))
 
