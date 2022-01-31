@@ -39,6 +39,11 @@ Biting_Winds(
     any_of(Quickdraw, Rapid_Hit, Surplus),
     any_of(Explosive_Head, Sympathetic_Arsenal, Swashbuckler))
 
+//notes:Max accuracy in first two columns
+Bow(
+    High_Tension_String,
+    any_of(Straight_Fletching, Fiberglass_Arrow_Shaft))
+
 //notes:For occasional short-range damage bursts in kinetic slot 
 Toil_and_Trouble(2117683199, Auto_Loading_Holster)
 
