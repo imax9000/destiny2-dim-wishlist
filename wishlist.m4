@@ -43,6 +43,18 @@ Biting_Winds(
 Bow(
     High_Tension_String,
     any_of(Straight_Fletching, Fiberglass_Arrow_Shaft))
+Wolftone_Draw(
+    High_Tension_String,
+    any_of(Straight_Fletching, Fiberglass_Arrow_Shaft))
+Wolftone_Draw(
+    High_Tension_String,
+    any_of(Straight_Fletching, Fiberglass_Arrow_Shaft),
+    any_of(Impulse_Amplifier, Archer_s_Tempo, Shoot_to_Loot, Ensemble),
+    Frenzy)
+Biting_Winds(
+    High_Tension_String,
+    any_of(Straight_Fletching, Fiberglass_Arrow_Shaft))
+
 
 //notes:For occasional short-range damage bursts in kinetic slot 
 Toil_and_Trouble(2117683199, Auto_Loading_Holster)
@@ -88,8 +100,15 @@ Chrysura_Melo(
 
 Tranquility(Auto_Loading_Holster, Snapshot_Sights)
 
-//notes:Quick blinding grenades in the kinetic slot
+//notes:Quick blinding grenades
+Grenade_Launcher(Blinding_Grenades, Auto_Loading_Holster)
+Grenade_Launcher(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, any_of(Quickdraw, Danger_Zone))
 Pardon_Our_Dust(Blinding_Grenades, Auto_Loading_Holster)
+Pardon_Our_Dust(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, Danger_Zone)
+Truthteller(Blinding_Grenades, Auto_Loading_Holster)
+Truthteller(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, Quickdraw)
+Empty_Vessel(Blinding_Grenades, Auto_Loading_Holster)
+Empty_Vessel(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, Danger_Zone)
 
 //notes:Frenzy > Vorpal on heavy now (+15% vs. +10%)
 Threaded_Needle(Frenzy)
@@ -99,3 +118,11 @@ The_Last_Breath(
     any_of(Ricochet_Rounds, Flared_Magwell),
     Subsistence,
     any_of(Adrenaline_Junkie, Frenzy))
+
+//notes:One-Two Punch
+Shotgun(One_Two_Punch, any_of(Grave_Robber, Auto_Loading_Holster, Reconstruction, Slideshot, Slideways))
+One_Small_Step(One_Two_Punch, any_of(Grave_Robber, Auto_Loading_Holster, Slideshot, Slideways))
+Wastelander_M5(One_Two_Punch, Slideshot)
+A_Sudden_Death(One_Two_Punch, any_of(Grave_Robber, Slideshot))
+The_Deicide(One_Two_Punch, any_of(Grave_Robber, Slideshot))
+Xenoclast_IV(One_Two_Punch, any_of(Grave_Robber, Auto_Loading_Holster, Slideshot, Slideways))
