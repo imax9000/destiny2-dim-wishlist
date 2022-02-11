@@ -17,12 +17,6 @@ Breachlight(
 	Vorpal_Weapon,
 	any_of(Demolitionist, Outlaw, Hip_Fire_Grip))
 
-//notes:Minor/major add clear
-Sword(Jagged_Edge, Tireless_Blade, Whirlwind_Blade)
-
-//notes:Boss damage
-Sword(Jagged_Edge, Relentless_Strikes, Whirlwind_Blade)
-
 //notes:Ultimate Zenobia-D: max blast radius, cluster bombs, field prep for extra rocket and faster reload.
 Zenobia_D(1478423395, Black_Powder, Cluster_Bomb, Field_Prep)
 
@@ -38,20 +32,14 @@ Biting_Winds(
     any_of(Straight_Fletching, Fiberglass_Arrow_Shaft),
     any_of(Quickdraw, Rapid_Hit, Surplus),
     any_of(Explosive_Head, Sympathetic_Arsenal, Swashbuckler))
-
-//notes:Max accuracy in first two columns
-Bow(
-    High_Tension_String,
-    any_of(Straight_Fletching, Fiberglass_Arrow_Shaft))
-Wolftone_Draw(
-    High_Tension_String,
-    any_of(Straight_Fletching, Fiberglass_Arrow_Shaft))
 Wolftone_Draw(
     High_Tension_String,
     any_of(Straight_Fletching, Fiberglass_Arrow_Shaft),
     any_of(Impulse_Amplifier, Archer_s_Tempo, Shoot_to_Loot, Ensemble),
     Frenzy)
-Biting_Winds(
+
+//notes:Max accuracy in first two columns
+Bow(
     High_Tension_String,
     any_of(Straight_Fletching, Fiberglass_Arrow_Shaft))
 
@@ -64,9 +52,6 @@ Extraordinary_Rendition(
     Zen_Moment,
     Frenzy, Thresh)
 
-//notes:KABOOM!!!
-Hero_of_Ages(Tireless_Blade, Chain_Reaction)
-
 //notes:Boss/major damage
 The_Other_Half(Jagged_Edge, Relentless_Strikes, any_of(Whirlwind_Blade, Frenzy))
 
@@ -78,6 +63,15 @@ Half_Truths(any_of(Tireless_Blade, Thresh), Assassin_s_Blade)
 
 //notes:For farming "Short Circuiter" triumph
 Chroma_Rush(Subsistence)
+
+//notes:KABOOM!!!
+Hero_of_Ages(Tireless_Blade, Chain_Reaction)
+
+//notes:Minor/major add clear
+Sword(Jagged_Edge, Tireless_Blade, Whirlwind_Blade)
+
+//notes:Boss damage
+Sword(Jagged_Edge, Relentless_Strikes, Whirlwind_Blade)
 
 //notes:Skating sword
 Sword(Eager_Edge)
@@ -101,14 +95,12 @@ Chrysura_Melo(
 Tranquility(Auto_Loading_Holster, Snapshot_Sights)
 
 //notes:Quick blinding grenades
-Grenade_Launcher(Blinding_Grenades, Auto_Loading_Holster)
-Grenade_Launcher(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, any_of(Quickdraw, Danger_Zone))
-Pardon_Our_Dust(Blinding_Grenades, Auto_Loading_Holster)
 Pardon_Our_Dust(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, Danger_Zone)
-Truthteller(Blinding_Grenades, Auto_Loading_Holster)
 Truthteller(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, Quickdraw)
-Empty_Vessel(Blinding_Grenades, Auto_Loading_Holster)
 Empty_Vessel(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, Danger_Zone)
+Ignition_Code(Blinding_Grenades, Slideshot)
+Grenade_Launcher(Volatile_Launch, Blinding_Grenades, any_of(Auto_Loading_Holster, Slideshot), any_of(Quickdraw, Danger_Zone))
+Grenade_Launcher(Blinding_Grenades, any_of(Auto_Loading_Holster, Slideshot))
 
 //notes:Frenzy > Vorpal on heavy now (+15% vs. +10%)
 Threaded_Needle(Frenzy)
@@ -120,9 +112,9 @@ The_Last_Breath(
     any_of(Adrenaline_Junkie, Frenzy))
 
 //notes:One-Two Punch
-Shotgun(One_Two_Punch, any_of(Grave_Robber, Auto_Loading_Holster, Reconstruction, Slideshot, Slideways))
 One_Small_Step(One_Two_Punch, any_of(Grave_Robber, Auto_Loading_Holster, Slideshot, Slideways))
 Wastelander_M5(One_Two_Punch, Slideshot)
 A_Sudden_Death(One_Two_Punch, any_of(Grave_Robber, Slideshot))
 The_Deicide(One_Two_Punch, any_of(Grave_Robber, Slideshot))
 Xenoclast_IV(One_Two_Punch, any_of(Grave_Robber, Auto_Loading_Holster, Slideshot, Slideways))
+Shotgun(One_Two_Punch, any_of(Grave_Robber, Auto_Loading_Holster, Reconstruction, Slideshot, Slideways))
