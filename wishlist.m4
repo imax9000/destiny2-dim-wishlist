@@ -53,10 +53,11 @@ Extraordinary_Rendition(
     Frenzy, Thresh)
 
 //notes:Boss/major damage
-The_Other_Half(Jagged_Edge, Relentless_Strikes, any_of(Whirlwind_Blade, Frenzy))
+The_Other_Half(Jagged_Edge, Swordmaster_s_Guard, any_of(Relentless_Strikes, Duelist_s_Trance), any_of(Whirlwind_Blade, Frenzy))
 
 //notes:Skating and chopping
-The_Other_Half(Jagged_Edge, Eager_Edge, any_of(Whirlwind_Blade, Frenzy))
+The_Other_Half(Jagged_Edge, Enduring_Blade, Eager_Edge, any_of(Whirlwind_Blade, Frenzy))
+Half_Truths(Jagged_Edge, Enduring_Blade, Swordmaster_s_Guard, any_of(Tireless_Blade, Relentless_Strikes), Eager_Edge)
 
 //notes:Redbar clear
 Half_Truths(any_of(Tireless_Blade, Thresh), Assassin_s_Blade)
