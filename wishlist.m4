@@ -35,7 +35,7 @@ Biting_Winds(
 Wolftone_Draw(
     High_Tension_String,
     any_of(Straight_Fletching, Fiberglass_Arrow_Shaft),
-    any_of(Impulse_Amplifier, Archer_s_Tempo, Shoot_to_Loot, Ensemble),
+    any_of(Archer_s_Tempo, Shoot_to_Loot, Ensemble),
     Frenzy)
 
 //notes:Max accuracy in first two columns
