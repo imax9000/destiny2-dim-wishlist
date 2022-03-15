@@ -119,3 +119,7 @@ A_Sudden_Death(One_Two_Punch, any_of(Grave_Robber, Slideshot))
 The_Deicide(One_Two_Punch, any_of(Grave_Robber, Slideshot))
 Xenoclast_IV(One_Two_Punch, any_of(Grave_Robber, Auto_Loading_Holster, Slideshot, Slideways))
 Shotgun(One_Two_Punch, any_of(Grave_Robber, Auto_Loading_Holster, Reconstruction, Slideshot, Slideways))
+
+
+Funnelweb(Subsistence, any_of(Rangefinder, Focused_Fury, Adrenaline_Junkie, Frenzy))
+Funnelweb(any_of(Steady_Rounds, Accurized_Rounds), Subsistence, any_of(Rangefinder, Focused_Fury, Adrenaline_Junkie, Frenzy))
