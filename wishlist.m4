@@ -123,3 +123,14 @@ Shotgun(One_Two_Punch, any_of(Grave_Robber, Auto_Loading_Holster, Reconstruction
 
 Funnelweb(Subsistence, any_of(Rangefinder, Focused_Fury, Adrenaline_Junkie, Frenzy))
 Funnelweb(any_of(Steady_Rounds, Accurized_Rounds), Subsistence, any_of(Rangefinder, Focused_Fury, Adrenaline_Junkie, Frenzy))
+
+//notes:Against champions
+Duty_Bound(Zen_Moment, any_of(Vorpal_Weapon, Frenzy, Fourth_Time_s_the_Charm))
+Duty_Bound__Adept_(Zen_Moment, any_of(Vorpal_Weapon, Frenzy, Fourth_Time_s_the_Charm))
+
+//notes:LOL
+Duty_Bound(Triple_Tap, Fourth_Time_s_the_Charm)
+Duty_Bound__Adept_(Triple_Tap, Fourth_Time_s_the_Charm)
+
+Duty_Bound(Triple_Tap, any_of(Frenzy, Rampage))
+Duty_Bound__Adept_(Triple_Tap, any_of(Frenzy, Rampage))
