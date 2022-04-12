@@ -77,6 +77,10 @@ Sword(Jagged_Edge, Relentless_Strikes, Whirlwind_Blade)
 //notes:Skating sword
 Sword(Eager_Edge)
 
+Razor_s_Edge(Swordmaster_s_Guard, Duelist_s_Trance, Frenzy)
+Razor_s_Edge(Swordmaster_s_Guard, Tireless_Blade, Chain_Reaction)
+Razor_s_Edge(Swordmaster_s_Guard, Relentless_Strikes, Frenzy)
+
 BxR_55_Battler(
     Arrowhead_Brake,
     any_of(Light_Mag, Flared_Magwell, 3142289711),
