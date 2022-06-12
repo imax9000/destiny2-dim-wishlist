@@ -1,0 +1,58 @@
+title:My selected rolls for crafted weapons
+
+//// Witch Queen
+
+//Come_to_Pass
+//Empirical_Evidence
+//Father_s_Sins
+//Fel_Taradiddle
+//Forbearance
+//Forensic_Nightmare
+//Likely_Suspect
+//Palmyra_B
+//Pointed_Inquiry
+//Ragnhild_D
+//Red_Herring
+//Syncopation_53
+//Tarnation
+//The_Enigma
+
+
+//// Season of the Risen (16)
+
+//Explosive_Personality
+//Piece_of_Mind
+//Recurrent_Impact
+//Sweet_Sorrow
+
+//notes:Lotta ammo
+dimwishlist:item=4067556514&perks=2420895100,3643424744,2896038713
+dimwishlist:item=4067556514&perks=2420895100,3643424744,1771339417
+
+//notes:Shield breaking
+dimwishlist:item=232928045&perks=201365942,1048183818
+
+//notes:Fast shooting
+dimwishlist:item=232928045&perks=201365942,2652708987
+
+
+//// Season of the Haunted (17)
+
+//Austringer
+//Beloved
+//Bump_in_the_Night
+//CALUS_Mini_Tool
+//Drang__Baroque_
+
+dimwishlist:item=2778013407&perks=839105230,1354429876,2896038713
+
+//Fixed_Odds
+//Hollow_Denial
+
+dimwishlist:item=254636484&perks=580685494,951095735,2224838837
+
+//notes:lol
+dimwishlist:item=1366394399&perks=839105230,3400784728,1354429876
+
+//The_Epicurean
+//Without_Remorse
