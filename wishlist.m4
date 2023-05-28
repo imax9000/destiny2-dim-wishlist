@@ -100,12 +100,12 @@ Chrysura_Melo(
 Tranquility(Auto_Loading_Holster, Snapshot_Sights)
 
 //notes:Quick blinding grenades
-Pardon_Our_Dust(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, Danger_Zone)
-Truthteller(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, Quickdraw)
-Empty_Vessel(Volatile_Launch, Blinding_Grenades, Auto_Loading_Holster, Danger_Zone)
-Ignition_Code(Blinding_Grenades, Slideshot)
-Grenade_Launcher(Volatile_Launch, Blinding_Grenades, any_of(Auto_Loading_Holster, Slideshot), any_of(Quickdraw, Danger_Zone))
-Grenade_Launcher(Blinding_Grenades, any_of(Auto_Loading_Holster, Slideshot))
+Pardon_Our_Dust(Volatile_Launch, Disorienting_Grenades, Auto_Loading_Holster, Danger_Zone)
+Truthteller(Volatile_Launch, Disorienting_Grenades, Auto_Loading_Holster, Quickdraw)
+Empty_Vessel(Volatile_Launch, Disorienting_Grenades, Auto_Loading_Holster, Danger_Zone)
+Ignition_Code(Disorienting_Grenades, Slideshot)
+Grenade_Launcher(Volatile_Launch, Disorienting_Grenades, any_of(Auto_Loading_Holster, Slideshot), any_of(Quickdraw, Danger_Zone))
+Grenade_Launcher(Disorienting_Grenades, any_of(Auto_Loading_Holster, Slideshot))
 
 //notes:Frenzy > Vorpal on heavy now (+15% vs. +10%)
 Threaded_Needle(Frenzy)
