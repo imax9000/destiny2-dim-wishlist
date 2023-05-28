@@ -138,3 +138,8 @@ Duty_Bound__Adept_(Triple_Tap, Fourth_Time_s_the_Charm)
 
 Duty_Bound(Triple_Tap, any_of(Frenzy, Rampage))
 Duty_Bound__Adept_(Triple_Tap, any_of(Frenzy, Rampage))
+
+Old_Sterling(Rewind_Rounds, Hatchling)
+
+Just_in_Case(Jagged_Edge, Swordmaster_s_Guard, Relentless_Strikes, Whirlwind_Blade)
+Just_in_Case(Swordmaster_s_Guard, Tireless_Blade, Incandescent)

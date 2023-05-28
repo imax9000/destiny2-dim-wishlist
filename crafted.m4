@@ -55,3 +55,11 @@ Tears_of_Contrition(Arrowhead_Brake, Triple_Tap, Fourth_Time_s_the_Charm)
 
 //The_Epicurean
 //Without_Remorse
+
+Age_Old_Bond(Repulsor_Brace, Destabilizing_Rounds)
+
+Tyranny_of_Heaven(Explosive_Head, Incandescent)
+
+Transfiguration(Rewind_Rounds, Explosive_Payload)
+
+Chattering_Bone(Rangefinder)
