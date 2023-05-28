@@ -66,7 +66,7 @@ Half_Truths(any_of(Tireless_Blade, Thresh), Assassin_s_Blade)
 Chroma_Rush(Subsistence)
 
 //notes:KABOOM!!!
-Hero_of_Ages(Tireless_Blade, Chain_Reaction)
+Sword(Tireless_Blade, Chain_Reaction)
 
 //notes:Minor/major add clear
 Sword(Jagged_Edge, Tireless_Blade, Whirlwind_Blade)

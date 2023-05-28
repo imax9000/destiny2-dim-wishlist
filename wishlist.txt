@@ -89,7 +89,7 @@ dimwishlist:item=3257091166&perks=2726471870,354401740
 dimwishlist:item=1119734784&perks=1820235745
 
 //notes:KABOOM!!!
-dimwishlist:item=2139640995&perks=2590710093,2396489472
+dimwishlist:item=54&perks=2590710093,2396489472
 
 //notes:Minor/major add clear
 dimwishlist:item=54&perks=3666208348,2590710093,3913600130
