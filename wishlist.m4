@@ -44,7 +44,7 @@ Bow(
     any_of(Straight_Fletching, Fiberglass_Arrow_Shaft))
 
 
-//notes:For occasional short-range damage bursts in kinetic slot 
+//notes:For occasional short-range damage bursts in kinetic slot
 Toil_and_Trouble(2117683199, Auto_Loading_Holster)
 
 Extraordinary_Rendition(
@@ -143,3 +143,10 @@ Old_Sterling(Rewind_Rounds, Hatchling)
 
 Just_in_Case(Jagged_Edge, Swordmaster_s_Guard, Relentless_Strikes, Whirlwind_Blade)
 Just_in_Case(Swordmaster_s_Guard, Tireless_Blade, Incandescent)
+
+//Prophecy refresh
+
+Prosecutor(Rewind_Rounds, Target_Lock)
+Prosecutor(any_of(Zen_Moment, Keep_Away), Voltshot)
+
+Relentless(Rapid_Hit, any_of(Zen_Moment, Hatchling, Desperado))
