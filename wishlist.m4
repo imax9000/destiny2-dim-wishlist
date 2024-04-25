@@ -174,3 +174,6 @@ Succession(Steady_Rounds, Reconstruction, Focused_Fury)
 
 Hung_Jury_SR4(Kinetic_Tremors, One_for_All)
 Hung_Jury_SR4(Rewind_Rounds, any_of(Explosive_Payload, Precision_Instrument, Firefly))
+
+Blast_Furnace(Kinetic_Tremors, One_for_All)
+Blast_Furnace(Zen_Moment, Frenzy)
