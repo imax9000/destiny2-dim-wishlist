@@ -169,3 +169,8 @@ Falling_Guillotine(Chain_Reaction, Destabilizing_Rounds)
 Edge_Transit(Envious_Assassin, Bait_and_Switch)
 
 Edge_Transit(any_of(Field_Prep, Impulse_Amplifier), Deconstruct)
+
+Succession(Steady_Rounds, Reconstruction, Focused_Fury)
+
+Hung_Jury_SR4(Kinetic_Tremors, One_for_All)
+Hung_Jury_SR4(Rewind_Rounds, any_of(Explosive_Payload, Precision_Instrument, Firefly))
