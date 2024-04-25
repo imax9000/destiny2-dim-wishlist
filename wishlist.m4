@@ -177,3 +177,5 @@ Hung_Jury_SR4(Rewind_Rounds, any_of(Explosive_Payload, Precision_Instrument, Fir
 
 Blast_Furnace(Kinetic_Tremors, One_for_All)
 Blast_Furnace(Zen_Moment, Frenzy)
+
+Ros_Arago_IV(any_of(Subsistence, Rewind_Rounds), Onslaught)
