@@ -161,6 +161,9 @@ The_Mountaintop(Hard_Launch, Auto_Loading_Holster, Recombination)
 The_Mountaintop(Hard_Launch, Ambitious_Assassin, any_of(One_for_All, Frenzy))
 
 Hammerhead(any_of(Rewind_Rounds, Fourth_Time_s_the_Charm), any_of(Target_Lock, High_Impact_Reserves))
+Hammerhead(Destabilizing_Rounds, Killing_Tally)
+Hammerhead(Destabilizing_Rounds)
+Hammerhead(Rampage, Killing_Tally)
 
 Falling_Guillotine(Relentless_Strikes, Bait_and_Switch)
 
