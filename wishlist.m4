@@ -151,14 +151,14 @@ Prosecutor(any_of(Zen_Moment, Keep_Away), Voltshot)
 
 Relentless(Rapid_Hit, any_of(Zen_Moment, Hatchling, Desperado))
 
-//notes:Sticky grenades
-The_Mountaintop(Sticky_Grenades)
-
 //notes:Burst damage
 The_Mountaintop(Hard_Launch, Auto_Loading_Holster, Recombination)
 
 //notes:Add clear
 The_Mountaintop(Hard_Launch, Ambitious_Assassin, any_of(One_for_All, Frenzy))
+
+//notes:Sticky grenades
+The_Mountaintop(Sticky_Grenades)
 
 Hammerhead(any_of(Rewind_Rounds, Fourth_Time_s_the_Charm), any_of(Target_Lock, High_Impact_Reserves))
 Hammerhead(Destabilizing_Rounds, Killing_Tally)
